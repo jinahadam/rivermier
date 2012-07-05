@@ -1,3 +1,5 @@
+Source code for tweet aggregator, content and trend analyzer app running on http://rivermier.com and http://twitter.com/rivermier
+
 # Requirements
 
 * Redis
@@ -32,3 +34,9 @@
 # Website
 
 Sinatra app in website/config.ru
+
+# Disclaimer
+
+2012 Mohmed Ashraf.
+Not affiliated with Twitter.
+Released under MIT license.
